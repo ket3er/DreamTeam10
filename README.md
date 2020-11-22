@@ -1,1 +1,3 @@
-# DreamTeam10
+Praktikum Hero
+Хакатон для выпускников
+**DreamTeam10**
